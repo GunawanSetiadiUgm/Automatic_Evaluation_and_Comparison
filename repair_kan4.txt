@@ -1,0 +1,2 @@
+Genetic algorithm is one of the soft computing methods
+often used in projection.

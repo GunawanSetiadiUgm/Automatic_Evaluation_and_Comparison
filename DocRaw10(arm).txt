@@ -1,0 +1,23 @@
+Kebijakan pemerintahan untuk menaikkan harga Bahan Bakar Minyak (BBM)
+khususnya premium pada beberapa bulan terakhir menyebabkan berbagai dampak.
+Dampak yang sangat berpengaruh salah satunya adalah tingkat inflasi. Jika harga BBM
+mengalami kenaikan, tingkat inflasi juga akan mengalami kenaikan. Oleh karena itu,
+pemerintah harus dapat memprediksi tingkat inflasi berdasarkan kenaikan harga BBM.
+Dari hasil prediksi yang diperoleh, pemerintah akan dapat mempersiapkan kebijakan-kebijakan
+fiskal maupun non-fiskal untuk menghadapi segala resiko yang akan terjadi
+dan menjaga kestabilan perekonomian di Indonesia.
+Algoritma genetika adalah salah satu metode komputasional yang bagus untuk
+melakukan prediksi. Dengan menggunakan algoritma genetika yang menerapkan
+teknik generasi alam yaitu evolusi, solusi dapat dicari dengan model komputasi yang
+menjanjikan. Proses algoritma genetika pada penelitian ini dimulai dari pembangkitan
+populasi awal, seleksi parent dengan seleksi roda roulette, proses crossover dengan
+whole arithmetic crossover, proses mutasi acak sampai dengan seleksi survivor berupa
+steady state update dilakukan dengan baik untuk mendapatkan solusi prediksi.
+Pengujian sistem pada penelitian ini dapat dilakukan prediksi tingkat inflasi
+untuk masa lampau dan masa mendatang. Pada pengujian sistem prediksi tingkat inflasi
+ditemukan faktor lain selain harga premium. Faktor lain tersebut bernilai sebesar 3,83.
+Dengan pengurangan faktor lain tersebut, pengujian hasil prediksi pada masa
+pemerintahan Susilo Bambang Yudhoyono selama 10 tahun diperoleh peningkatan
+akurasi dari 42,98% menjadi 62,16%. Akurasi pengujian untuk prediksi bulan Januari
+2015 sebesar 87%. Sedangkan akurasi pengujian untuk prediksi bulan Februari 2015
+sebesar 97 %.

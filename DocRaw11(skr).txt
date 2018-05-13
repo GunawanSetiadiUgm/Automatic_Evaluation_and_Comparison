@@ -1,0 +1,19 @@
+Teknologi cloud computing atau komputasi awan telah berkembang dan
+menjadi tren dari teknologi informasi pada sektor bisnis. Dasar dari cloud
+computing adalah teknologi virtualisasi yang mampu membuat versi virtual dari
+sistem operasi, penyimpanan data atau sumber daya jaringan. Pada cloud
+computing, jika virtual machine dibuat secara sembarangan tanpa memperhatikan
+sumber daya yang ada, maka dapat menimbulkan virtual data center tidak berfungsi
+dengan baik. Karena itu faktor keamanan berdasarkan desain konfigurasi virtual
+machine pada infrastruktur virtual data center menjadi penting untuk diperhatikan.
+Pada penelitian ini dilakukan pengujian terhadap beberapa virtual machine
+dengan konfiguasi alokasi sumber daya, vCPU dan topologi berbeda, yang
+diimplemntasikan pada Xenserver 6.5. Parameter penelitian yang digunakan adalah
+penggunaan CPU dan penggunaan memori.
+Hasil dari penelitian ini menunjukkan bahwa virtual data center
+memerlukan CPU dan memori tinggi saat pertama kali dijalankan. Berdasarkan
+jenis alokasi sumber daya yang digunakan virtual machine, alokasi sumber daya
+secara dynamic menunjukkan penggunaan memori dan penggunaan CPU yang
+stabil. Berdasarkan topologi yang digunakan oleh virtual machine diperoleh bahwa
+vitrual machine dengan 4vCPU dan topologi 1 socket dengan 4 core memerlukan
+penggunaan CPU lebih kecil jika dibandingkan dengan yang lainnya.

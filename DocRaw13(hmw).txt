@@ -1,0 +1,17 @@
+Fantasy Premier League (FPL) adalah sebuah permainan resmi yang
+diselenggarakan oleh The Football Association, asosiasi sepakbola Inggris,
+sebagai ajang promosi Liga Primer Inggris. FPL dimainkan dengan cara memilih
+15 pemain sepakbola yang bermain di Liga Primer Inggris setiap pekannya
+dengan aturan tertentu, untuk memaksimalkan poin sesuai dengan kontribusinya
+pada pertandingan sebenarnya di Liga Primer Inggris. Pada permainan ini, para
+pemain FPL, yang selanjutnya disebut sebagai manajer FPL, diuji kemampuan
+analisisnya dalam menentukan pemain-pemain yang diharapkan meraih poin
+yang tinggi di setiap pertandingan.
+Algoritma genetika merupakan salah satu metode soft computing yang
+sering digunakan dalam melakukan proyeksi. Pada penelitian ini, digunakan
+algoritma genetika untuk memproyeksikan poin pemain FPL, dan kemudian
+dibandingkan akurasinya dengan metode-metode yang sudah ada. Fungsi fitness
+yang digunakan adalah mean squared error dari pemodelan regresi linear
+berganda. Terdapat 3 faktor yang dimodelkan sebagai regresi linear berganda,
+yaitu tingkat kesulitan pertandingan, rata-rata poin pemain FPL dalam 30 hari
+terakhir, dan rata-rata rating pemain FPL dalam 30 hari terakhir.

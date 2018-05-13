@@ -1,0 +1,20 @@
+Shopping on the internet is now an alternative for consumers, but it arises
+constraints on products that are not in line with customer expectations. For
+overcome that many online stores that provide a policy of returns on a regular basis
+free. Because the cost of return is borne by the online store then the store must
+predict returns from customers who have made a purchase transaction.
+With these predictions it is expected that online stores can prepare solutions for
+reducing returns or for later similar transactions no longer returns.
+The k-Nearest Neighbor or k-NN algorithm is one of the algorithms
+a classification that produces powerful and effective data when used on data
+the big one. Using the k-NN algorithm that applies the method
+classification of objects based on learning data, predictions can be searched
+of similarity to the number of nearest neighbors or k values. Process algorithm k-
+NN in this study started with parameter optimization to select k value
+the optimal, the training phase, then the classification phase, and the number of nearest data k
+taken to search for the majority label.
+System testing in this study can be done to get
+prediction of return for the past and future. On system testing
+this return prediction yields the most optimal k value k = 21 with the Fmeasure value
+of 0.6427. Test accuracy obtained for transaction data
+the purchase of an online store in 2013 amounted to 58.94%.

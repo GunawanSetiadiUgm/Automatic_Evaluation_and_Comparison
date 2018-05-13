@@ -1,0 +1,22 @@
+Kebutuhan data center meningkat karena perkembangan zaman yang
+menghasilkan banyak data. Pembangunan data center mewajibkan menggunakan
+infrastruktur IP untuk saling terhubung. Sedangkan persediaan IPv4 sudah
+menipis. Solusinya adalah menerapkan sistem pengalamatan IP yang baru. IPv6
+adalah sistem pengalamatan IP terbaru yang menggantikan IPv4. Dengan sistem
+pengalamatan 128-bit membuat IPv6 dapat memberikan pengalamatan jauh lebih
+banyak dibanding IPv4.
+Pada penelitian ini akan dilakukan implementasi IPv6 di dalam virtual
+data center dengan Xenserver. Implementasi menggunakan metode tunneling 6to4
+yang dibandingkan dengan penggunaan IPv4 murni dan IPv6 murni. Untuk
+mengetahui kinerjanya, dilakukan pengujian dengan parameter throughput, jitter,
+packet loss, dan latency. Selain itu pengujian lain dilakukan dengan menganalisa
+paket yang melewati jaringan.
+Hasil dari penelitian ini menunjukan bahwa implementasi ipv6 pada
+virtual data center setidaknya membutuhkan 4 buah virtual machine sebagai
+router dan host. Dilihat dari kinerja jaringan, hasil throughput skenario ipv6
+murni paling tinggi dibanding skenario lainnya, dengan nilai rata-rata 2791.29
+Mbit/s. Nilai jitter pada skenario IPv6 tunneling paling tinggi dibanding dua
+skenario lainya, dengan nilai rata-rata 0.0336 ms. Berbeda dengan skenario IPv6
+tunneling, skenario IPv6 murni dan IPv4 murni sama sekali tidak terjadi packet
+loss. Namun untuk parameter latency, skenario IPv6 tunneling memiliki latency
+paling besar dengan nilai rata-rata 1.137 ms.

@@ -1,0 +1,3 @@
+FPL is played by selecting the 15 football players who play in the
+Premier League on a weekly basis with certain rules, to maximize the points
+according to their contribution to the actual game in the Premier League.

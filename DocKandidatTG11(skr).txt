@@ -1,0 +1,19 @@
+Cloud computing technology or cloud computing has evolved and
+become the trend of information technology in the business sector. The basis of the cloud
+computing is a virtualization technology capable of creating virtual versions of
+operating system, data storage or network resources. In the cloud
+computing, if the virtual machine is made carelessly regardless
+the existing resources, it may cause the virtual data center is not working
+well. Therefore the security factor is based on virtual configuration design
+machine on the virtual data center infrastructure becomes important to note.
+In this research is done testing against some virtual machine
+with resource allocation configuation, vCPU and different topologies
+implemented in Xenserver 6.5. The research parameters used are
+CPU usage and memory usage.
+The results of this study indicate that virtual data center
+requires CPU and high memory when first run. Based on
+the type of resource allocation used by a virtual machine, the allocation of resources
+dynamically indicates memory usage and CPU usage
+stable. Based on the topology used by the virtual machine obtained that
+vitrual machine with 4vCPU and 1 socket topology with 4 cores require
+CPU usage is smaller when compared to others.

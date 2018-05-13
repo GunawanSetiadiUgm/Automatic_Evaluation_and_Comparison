@@ -1,0 +1,19 @@
+Shopping on the internet has become an alternative for customers, but it
+presents an obstacle with the product which are not in accordance with customer
+expectations. To overcome this, many online shops provide free return policy.
+Because the cost of return shipment are borne by the online shop, therefore shop
+have to predict returns of customers who have made purchases. With this
+prediction, the online shop is expected to prepare a solution to prevent returns on
+similiar transaction will not happen again.
+K-Nearest Neighbor algortihm or k-NN is a classification algorithm that
+generates strong data and effective when used on large data. By using k-NN
+algorithm that applies to the object classification method based on learning data,
+predictions can be sought from the similarity according to the number of nearest
+neighbors or the value of k. The process of k-NN algorithm in this study begins
+with a parameter optimization to select the optimal values of k, the training phase,
+the phase of classification, and take as many as k data closest to seek a majority
+label.
+Testing the system in this study can be predict the return shipment for the
+past and the future. In testing the prediction of return shipment system generate
+the most optimal value of k is k = 21 with F-measure value 0.6427. Accuracy
+testing of the historical purchase data of online shop in 2013 amounted to 58.94%.

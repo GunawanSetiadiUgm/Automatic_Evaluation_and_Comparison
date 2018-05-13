@@ -1,0 +1,22 @@
+Data center needs increased due to the development of the times
+generate a lot of data. The construction of data centers require the use
+infrastructure IP for connected. While the supply of IPv4 is already
+thinning. The solution is to apply the new IP addressing systems. IPv6
+latest IP addressing system is replacing IPv4. With the system
+128-bit addressing makes IPv6 addressing can give much more
+many compared to IPv4.
+This research will be performed on IPv6 implementation in the virtual
+the data center with Xenserver. Implementation using 6to4 tunneling method
+that compared to the use of both IPv4 and IPv6 are pure and unadulterated. For
+know its performance, conducted a test with parameters of throughput, jitter,
+packet loss, and latency. In addition to other testing done by analyzing
+packets that pass through the network.
+The results of this research show that the ipv6 implementation on
+virtual data center requires at least 4 pieces of virtual machine as
+routers and hosts. Views of network performance, ipv6 scenarios throughput results
+most pure high compared to other scenarios, with an average value of 2791.29
+Mbit/s jitter Value. on IPv6 tunneling scenarios most high than two
+other scenarios, with the average value of 0.0336 ms. different to the scenario of IPv6
+tunneling, IPv4 and IPv6 scenarios pure pure packet does not occur at all
+loss. However, the latency parameter for IPv6 tunneling scenarios have latency
+most of the average value of 1,137 ms.

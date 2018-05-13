@@ -1,0 +1,14 @@
+Fantasy Premier League (FPL) is an official game organized by The
+Football Association, the England football associations, as promotion of the
+Premier League. FPL is played by selecting the 15 football players who play in the
+Premier League on a weekly basis with certain rules, to maximize the points
+according to their contribution to the actual game in the Premier League. In this
+game, the manager of FPL tested their ability of analysis in determining the
+players who are expected to reach the high points in every game.
+Genetic algorithm is one method of soft computing are often used in
+making projections. In this research, the genetic algorithm is used to project the
+FPL player points, and then compared the accuracy with methods that already
+exist. Fitness function used is the mean squared error of multiple linear
+regression modeling. There are three factors that are modeled as linear
+regression: the level of difficulty of the game, the average points of FPL player in
+the last 30 days, and the average rating of FPL player in the last 30 days.

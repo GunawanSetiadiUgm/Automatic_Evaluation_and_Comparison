@@ -1,0 +1,20 @@
+Berbelanja di internet kini menjadi alternatif bagi konsumen, tetapi timbul
+kendala mengenai produk yang tidak sesuai dengan ekspektasi pelanggan. Untuk
+mengatasi hal itu banyak toko online yang menyediakan kebijakan retur secara
+gratis. Oleh karena biaya retur ditanggung oleh pihak toko online maka toko harus
+memprediksi retur dari pelanggan yang telah melakukan transaksi pembelian.
+Dengan prediksi ini diharapkan toko online dapat menyiapkan solusi untuk
+mengurangi retur atau agar nantinya transaksi serupa tidak terjadi retur lagi.
+Algoritma k-Nearest Neighbor atau k-NN adalah salah satu algoritma
+klasifikasi yang menghasilkan data yang kuat dan efektif jika digunakan pada data
+yang besar. Dengan menggunakan algoritma k-NN yang menerapkan metode
+klasifikasi terhadap obyek berdasarkan data pembelajaran, prediksi dapat dicari
+dari similaritas sesuai jumlah tetangga terdekat atau nilai k. Proses algoritma k-
+NN pada penelitian ini dimulai dengan optimasi parameter untuk memilih nilai k
+yang optimal, fase training, lalu fase klasifikasi, dan sejumlah k data terdekat
+diambil untuk dicari label mayoritasnya.
+Pengujian sistem pada penelitian ini dapat dilakukan untuk mendapatkan
+prediksi retur untuk masa lampau dan masa mendatang. Pada pengujian sistem
+prediksi retur ini menghasilkan nilai k paling optimal yaitu k = 21 dengan nilai Fmeasure
+sebesar 0.6427. Akurasi pengujian yang didapatkan untuk data transaksi
+pembelian sebuah toko online pada tahun 2013 adalah sebesar 58.94%.

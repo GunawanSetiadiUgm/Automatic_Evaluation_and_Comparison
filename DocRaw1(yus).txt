@@ -1,0 +1,26 @@
+Content-Based Image Retrieval (CBIR) pada umumnya dilakukan dengan melakukan ekstraksi fitur terhadap data citra yang dimasukan. 
+Namun ekstraksi fitur akan suatu bentuk citra dengan bentuk citra yang lain akan
+berbeda sehingga campur tangan manusia masih dibutuhkan dalam menganalisis
+model ekstraksi yang dibutuhkan. 
+Dengan pesatnya perkembangan teknologi
+saat ini, dibutuhkan suatu sistem otomatis yang bersifat universal sehingga
+sistem dapat bekerja secara independen terhadap semua model bentuk citra yang
+ada saat ini. 
+Pada penelitian ini, akan diterapkan CBIR menggunakan pengukuran
+disimilaritas citra berdasarkan teori Normalized Compression Distance (NCD). 
+Keuntungan utama metode ini adalah tidak terdapat ekstraksi fitur dalam CBIR
+sehingga dapat diterapkan pada semua jenis citra. Metode NCD yang digunakan
+pada penelitian ini adalah NCD Sederhana dan NCD Interleaving dengan alat
+kompresi menggunakan teknik BZIP2. Data yang digunakan pada penelitian kali
+ini adalah dataset SIVAL dan dataset Corel. Pengujian akan dilakukan terhadap
+Image segmentation akan diterapkan sebagai data preparation dengan tujuan
+meningkatkan kemampuan NCD. Sebagai perbandingan akan diuji pula dataset
+tersebut dengan tool CBIR Octagon sehingga dapat diketahui kemampuan NCD
+dibandingkan tool CBIR lainya. Hasil penelitian ini menunjukan bahwa metode NCD bekerja lebih baik
+pada dataset SIVAL dimana objek berada pada lokasi spasial yang berbeda.
+Penggunaan Image Segmentation mampu meningkatkan kemampuan hampir
+50% kemampuan NCD pada dataset struktur SIVAL. Namun pada percobaan
+menggunakan dataset gabungan antara SIVAL dengan Corel (struktur
+campuran), NCD memiliki precision lebih kecil dari yang dihasilkan oleh tool
+CBIR Octagon, namun Image Segmentation tidak memberikan peningkatan
+pada performa precision NCD saat dikenakan pada dataset struktur campuran.

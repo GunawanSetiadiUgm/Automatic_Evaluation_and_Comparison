@@ -1,0 +1,19 @@
+Generally, Content-Based Image Retrieval (CBIR) is done by performing
+feature extraction toward data images input. However, feature extraction of an
+image is different from one to another, thus to analyze the extraction model still
+needs a help from human hands. Along with rapid growth of technology, we
+need a universal automatic system that works independently on any variant of
+current image model. This research will apply the CBIR technique using images dissimilarity
+measurements based on the theory of Normalized Compression Distance (NCD).
+The main advantage of this method is, the absence of feature extraction within
+CBIR can be applied in any kind of images. The NCD method used is the Simple
+NCD and NCD Interleaving with compression tools by applying BZIP2
+technique. The data being used are SIVAL data set and Corel data set. Trial on
+Image Segmentation will be applied as data preparation in order to upgrade the
+NCD competence. As a comparison, the data set will be also tested using CBIR
+Octagon, so, the NCD competence can be compared with another CBIR tools. The results show that NCD method worked better on SIVAL Data set,
+where the objects are located on different spatial. The utilizing of Image
+Segmentation increase the NCD competence for almost 50% on SIVAL Data
+set. However, the trials on mixture data set showed that NCD method had smaller
+precision rather than CBIR Octagon, but the Image Segmentation also did not
+show escalation.

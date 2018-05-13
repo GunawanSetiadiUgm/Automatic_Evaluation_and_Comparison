@@ -1,0 +1,23 @@
+Government policy to raise the price of Fuel Oil (BBM)
+particularly the premium in recent months caused various impacts.
+The impact is very influential one of them is the rate of inflation. If the price is fuel
+increase, inflation rate will also increase. Therefore,
+the government should be able to predict the inflation rate based on the fuel price hike.
+From the results of predictions obtained, the government will be able to prepare policies
+fiscal and non-fiscal to deal with any risks that will occur
+and maintain the stability of the economy in Indonesia.
+The genetic algorithm is one of the best computational methods for
+make predictions. By using a genetic algorithm that implements
+the nature generation technique that is evolution, the solution can be searched with the computation model
+promising. The process of genetic algorithm in this study started from generation
+initial population, parent selection with roulette wheel selection, crossover process with
+whole arithmetic crossover, random mutation process up to survivor selection
+steady state updates done well to get prediction solutions.
+System testing in this study can be predicted inflation rate
+for the past and the future. On testing the system predicted the inflation rate
+found other factors besides the premium price. Another factor is worth 3.83.
+With the reduction of these other factors, testing predicted results in the future
+the government of Susilo Bambang Yudhoyono for 10 years obtained an increase
+accuracy from 42.98% to 62.16%. Test accuracy for January prediction
+2015 by 87%. While testing accuracy for February 2015 prediction
+by 97%.

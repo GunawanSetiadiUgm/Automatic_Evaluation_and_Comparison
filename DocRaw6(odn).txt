@@ -1,0 +1,19 @@
+Kebutuhan terhadap penggunaan komputer semakin meningkat dengan
+semakin tingginya perkembangan teknologi. Salah satu alat bantu penggunaan
+komputer adalah thin-client. Dengan thin-client, kita tidak diharuskan
+mengeluarkan biaya besar untuk dapat menggunakan komputer. Hanya dengan
+perangkat yang sederhana dan koneksi jaringan, kita sudah dapat menggunakan
+komputer. Salah satu perangkat yang dapat dijadikan sebagai thin-client adalah
+Raspberry Pi.
+Pada penelitian ini digunakan metode Slow-Motion Benchmarking untuk
+menghitung kinerja dari 2 buah sistem operasi thin-client pada platform Raspberry
+PI. Parameter utama dalam pengujian ini adalah memberikan jeda atau delay pada
+tiap operasi yang dilakukan sehingga semua operasi yang diminta dapat diterima
+secara utuh oleh thin-client setelah diproses oleh server tanpa adanya proses yang
+ditutupi oleh proses lainnya. Penelitian ini melibatkan 3 buah pengujian, yaitu
+pengujian web text page load performace, web image page load performance, dan
+video playback performance.
+Dari hasil pengujian diperoleh bahwa kinerja pada masing-masing thinclient
+memiliki perbedaan yang cukup signifikan. Hal ini disebabkan oleh
+perbedaan pada model protokol yang digunakan, dan model pengolahan informasi
+grafis yang dilakukan oleh masing-masing thin-client.

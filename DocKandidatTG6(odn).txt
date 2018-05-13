@@ -1,0 +1,19 @@
+The need for computer usage is increasing with
+the growing technological development. One of the tools of use
+the computer is a thin-client. With thin-client, we are not required
+spend a lot of money to be able to use the computer. Only with
+simple devices and network connections, we can already use
+computer. One device that can be used as a thin-client is
+Raspberry Pi.
+In this research used Slow-Motion Benchmarking method
+calculates the performance of 2 pieces of thin-client operating system on the Raspberry platform
+PI. The main parameter in this test is to give a pause or delay on
+each operation performed so that all requested operations are acceptable
+intact by thin-client after being processed by the server in the absence of that process
+covered by other processes. This research involves 3 pieces of testing, that is
+web page load text test performace, web page load performance, and
+video playback performance.
+From the test results obtained that the performance on each thinclient
+has a significant difference. This is caused by
+differences in the protocol model used, and the information processing model
+graphics performed by each thin-client.

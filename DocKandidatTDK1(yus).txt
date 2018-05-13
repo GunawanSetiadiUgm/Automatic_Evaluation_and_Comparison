@@ -1,0 +1,33 @@
+Content-Based Image Retrieval (CBIR) generally do
+feature extraction by performing against the image data placed. 
+However
+extraction of feature will be a form's image with another image of the form will
+different that human intervention is still required in analyzing
+extraction of model is needed. 
+With the rapid development of technology
+Currently, it takes an automatic system that is universal so that
+the system can work independently of all models of the shape of the image
+There is at the moment. In this research, will be applied using CBIR measurement
+image disimilaritas based on the theory of the Normalized Compression Distance (NCD). 
+The main advantage of this method is the extraction of features not found in CBIR
+so it can be applied on any type of image. 
+NCD method used
+in this research is a simple Interleaving NCD and NCD with tools
+using the technique of compression is BZIP2. 
+The data used in the study times
+This is the dataset dataset SIVAL and Corel. 
+Testing will be done to the
+Image segmentation is applied as a data preparation with the aim of
+improve the ability of the NCD.
+By comparison will be tested anyway datasets
+the tool can be known so that the Octagon CBIR ability NCD
+compared to other CBIR tool. 
+The results of this research show that NCD method works better
+on the dataset object is at SIVAL where spatial locations are different. 
+The use of Image Segmentation to increase the ability of almost
+50% NCD ability on the dataset structure SIVAL.
+But in the experiment
+using the combined dataset between SIVAL with Corel (structure
+mix), NCD has a precision smaller than that produced by the tool
+CBIR Octagon, but Image Segmentation does not provide increased
+on the performance of precision NCD when imposed on the structure of the dataset.
